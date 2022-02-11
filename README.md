@@ -1,2 +1,2 @@
 # tensorflow_basics
-Repository with google colab notebooks with basic knowledge about TensorFlow
+Repository with basic knowledge of TensorFlow implementing neural networks for regression and classification problems
