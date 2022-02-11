@@ -1,2 +1,2 @@
 # tensorflow_basics
-Repository with basic knowledge of TensorFlow implementing neural networks for regression and classification problems
+Repository with basic knowledge of TensorFlow implementing neural networks for regression and classification problems using Google Colab
